@@ -1,1 +1,1 @@
-# imi-rs.github.io
+# Institut za Matematiku i Informatiku - Kragujevac
