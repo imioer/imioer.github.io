@@ -1,4 +1,4 @@
-# _DRAFT_
+**_DRAFT_**
 
 Projekat **_IMI Open Educational Resources_** je kolekcija besplatnih i otvorenih materijala sa kurseva na _Institutu za matematiku i informatiku (IMI) Prirodno matematičkog fakulteta (PMF) Univerziteta u Kragujevcu_.
 
@@ -11,3 +11,9 @@ Pomenute ciljeve projekat postiže na sledeće načine:
 - Omogućavanje lakšeg pristupa materijalima
 
 _Projekat je kreiran od strane predmetnih nastavnika u slobodnoj organizaciji, nezavisno od Instituta za matematiku i informatiku. Materijali podeljeni u okviru ovog projekta su dobrovoljno postavljeni od strane autora pod licencom koja je navedena u repozitorijumu datog kursa._
+
+## Kursevi
+
+- [**_Dizajniranje softvera_**](ds)
+- [**_Interakcija čovek-računar_**](icr) (TODO)
+- [**_Klijentske web tehnologije_**](kwt) (TODO)
