@@ -14,6 +14,7 @@ _Projekat je kreiran od strane predmetnih nastavnika u slobodnoj organizaciji, n
 
 ## Kursevi
 
-- [**_Dizajniranje softvera_**](ds)
-- [**_Interakcija čovek-računar_**](icr) (TODO)
-- [**_Klijentske web tehnologije_**](kwt) (TODO)
+- [Dizajniranje softvera](ds)
+- [Interakcija čovek-računar](icr) (TODO)
+- [Klijentske web tehnologije](kwt) (TODO)
+- [Kvalitet i testiranje softvera](kts) 
