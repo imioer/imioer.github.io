@@ -16,9 +16,9 @@ _Projekat je kreiran od strane predmetnih nastavnika u slobodnoj organizaciji, n
 
 - [**Dizajniranje softvera**](ds)
 - [**Kvalitet i testiranje softvera**](kts)
+- [**Objektno-orjentisano programiranje**](oop)
 
 ---
 _In Progress_:
 - [Interakcija čovek-računar](icr)
 - [Klijentske web tehnologije](kwt)
-- [Objektno-orjentisano programiranje](oop)
