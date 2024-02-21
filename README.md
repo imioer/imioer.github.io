@@ -22,3 +22,6 @@ _Projekat je kreiran od strane predmetnih nastavnika u slobodnoj organizaciji, n
 _In Progress_:
 - [Interakcija čovek-računar](icr)
 - [Klijentske web tehnologije](kwt)
+- [Strukture podataka i algoritmi 1](spa1)
+- [Logičko i funkcijsko programiranje](lfp)
+- [Praktikum iz programiranja 3](pip3)
