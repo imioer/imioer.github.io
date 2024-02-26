@@ -1,4 +1,6 @@
-# Uputstvo za kreiranje kursa
+# Uputstva
+
+## Uputstvo za kreiranje kursa
 
 1. [Započnite kreiranje projekta][new]
 2. Izaberite opcije sa slike
