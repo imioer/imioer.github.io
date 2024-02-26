@@ -26,3 +26,12 @@ _In Progress_:
 - [Logičko i funkcijsko programiranje](lfp)
 - [Praktikum iz programiranja 3](pip3)
 - [Baze podataka 1](bp1)
+
+## Priključivanje projektu i saradnja
+
+Ukoliko želite da se priključite projektu, kontaktirajte nekoga ko je priključen projektu (contributors) ili predmetnog profesora na nekom od izlistanih predmeta.
+
+Kada budete pronašli osobu koja je trenutno uključena u održavanje projekta, biće potrebno da dostavite **GitHub username** ili **email adresu GitHub naloga** kako biste
+dobili potrebna prava pristupa.
+
+Sva uputstva koja se odnose na aktivnosti ovog projekta se mogu naći na [stranici sa uputstvima](uputstva).
