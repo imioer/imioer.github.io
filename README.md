@@ -25,3 +25,4 @@ _In Progress_:
 - [Strukture podataka i algoritmi 1](spa1)
 - [Logičko i funkcijsko programiranje](lfp)
 - [Praktikum iz programiranja 3](pip3)
+- [Baze podataka 1](bp1)
