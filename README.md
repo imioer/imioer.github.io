@@ -14,18 +14,17 @@ _Projekat je kreiran od strane predmetnih nastavnika u slobodnoj organizaciji, n
 
 ## Kursevi
 
+- [**Baze podataka 1**](bp1)
 - [**Dizajniranje softvera**](ds)
 - [**Klijentske web tehnologije**](kwt)
 - [**Kvalitet i testiranje softvera**](kts)
 - [**Objektno-orjentisano programiranje**](oop)
+- [**Strukture podataka i algoritmi 1**](spa1)
 
----
 _In Progress_:
 - [Interakcija čovek-računar](icr)
-- [Strukture podataka i algoritmi 1](spa1)
 - [Logičko i funkcijsko programiranje](lfp)
 - [Praktikum iz programiranja 3](pip3)
-- [Baze podataka 1](bp1)
 
 ## Priključivanje projektu i saradnja
 
